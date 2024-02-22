@@ -1,0 +1,14 @@
+F:\IPTV\ExcelLoader\Handler\ExcelLoader.exe.config
+F:\IPTV\ExcelLoader\Handler\ExcelLoader.exe
+F:\IPTV\ExcelLoader\Handler\ExcelLoader.pdb
+F:\IPTV\ExcelLoader\ExcelLoader\obj\Debug\ExcelLoader.csproj.AssemblyReference.cache
+F:\IPTV\ExcelLoader\ExcelLoader\obj\Debug\ExcelLoader.Properties.Resources.resources
+F:\IPTV\ExcelLoader\ExcelLoader\obj\Debug\ExcelLoader.csproj.GenerateResource.cache
+F:\IPTV\ExcelLoader\ExcelLoader\obj\Debug\ExcelLoader.csproj.CoreCompileInputs.cache
+F:\IPTV\ExcelLoader\ExcelLoader\obj\Debug\ExcelLoader.exe
+F:\IPTV\ExcelLoader\ExcelLoader\obj\Debug\ExcelLoader.pdb
+F:\IPTV\Handler\ExcelLoader.exe.config
+F:\IPTV\Handler\ExcelLoader.exe
+F:\IPTV\Handler\ExcelLoader.pdb
+F:\IPTV\ExcelLoader\ExcelLoader\obj\Debug\ExcelLoader.Form1.resources
+F:\IPTV\ExcelLoader\ExcelLoader\obj\Debug\ExcelLoader.csproj.CopyComplete
